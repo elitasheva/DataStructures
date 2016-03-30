@@ -1,0 +1,8 @@
+D:\Projects\Fundamental\06.DataStructures\09.Advanced Tree Structures - Part II\9. Quad-Tree\K-DTree.Tests\bin\Debug\K-DTree.Tests.dll
+D:\Projects\Fundamental\06.DataStructures\09.Advanced Tree Structures - Part II\9. Quad-Tree\K-DTree.Tests\bin\Debug\K-DTree.Tests.pdb
+D:\Projects\Fundamental\06.DataStructures\09.Advanced Tree Structures - Part II\9. Quad-Tree\K-DTree.Tests\bin\Debug\K-DTree.Core.exe
+D:\Projects\Fundamental\06.DataStructures\09.Advanced Tree Structures - Part II\9. Quad-Tree\K-DTree.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Fundamental\06.DataStructures\09.Advanced Tree Structures - Part II\9. Quad-Tree\K-DTree.Tests\bin\Debug\K-DTree.Core.pdb
+D:\Projects\Fundamental\06.DataStructures\09.Advanced Tree Structures - Part II\9. Quad-Tree\K-DTree.Tests\obj\Debug\K-DTree.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\09.Advanced Tree Structures - Part II\9. Quad-Tree\K-DTree.Tests\obj\Debug\K-DTree.Tests.dll
+D:\Projects\Fundamental\06.DataStructures\09.Advanced Tree Structures - Part II\9. Quad-Tree\K-DTree.Tests\obj\Debug\K-DTree.Tests.pdb

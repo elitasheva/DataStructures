@@ -1,0 +1,5 @@
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\03.CollectionOfProducts\bin\Debug\03.CollectionOfProducts.exe.config
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\03.CollectionOfProducts\bin\Debug\03.CollectionOfProducts.exe
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\03.CollectionOfProducts\bin\Debug\03.CollectionOfProducts.pdb
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\03.CollectionOfProducts\obj\Debug\03.CollectionOfProducts.exe
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\03.CollectionOfProducts\obj\Debug\03.CollectionOfProducts.pdb

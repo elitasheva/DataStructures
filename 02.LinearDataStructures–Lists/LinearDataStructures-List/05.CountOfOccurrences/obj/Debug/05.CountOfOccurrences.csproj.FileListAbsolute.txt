@@ -1,0 +1,5 @@
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\05.CountOfOccurrences\bin\Debug\05.CountOfOccurrences.exe.config
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\05.CountOfOccurrences\bin\Debug\05.CountOfOccurrences.exe
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\05.CountOfOccurrences\bin\Debug\05.CountOfOccurrences.pdb
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\05.CountOfOccurrences\obj\Debug\05.CountOfOccurrences.exe
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\05.CountOfOccurrences\obj\Debug\05.CountOfOccurrences.pdb

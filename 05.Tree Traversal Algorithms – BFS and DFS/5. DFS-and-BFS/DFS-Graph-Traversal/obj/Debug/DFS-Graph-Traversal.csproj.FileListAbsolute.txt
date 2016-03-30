@@ -1,0 +1,5 @@
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\5. DFS-and-BFS\DFS-Graph-Traversal\bin\Debug\Graph-Traversal.exe
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\5. DFS-and-BFS\DFS-Graph-Traversal\bin\Debug\Graph-Traversal.pdb
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\5. DFS-and-BFS\DFS-Graph-Traversal\obj\Debug\DFS-Graph-Traversal.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\5. DFS-and-BFS\DFS-Graph-Traversal\obj\Debug\Graph-Traversal.exe
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\5. DFS-and-BFS\DFS-Graph-Traversal\obj\Debug\Graph-Traversal.pdb

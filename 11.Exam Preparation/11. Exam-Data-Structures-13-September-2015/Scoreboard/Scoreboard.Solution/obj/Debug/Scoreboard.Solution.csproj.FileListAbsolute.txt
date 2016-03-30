@@ -1,0 +1,7 @@
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\Scoreboard\Scoreboard.Solution\bin\Debug\Scoreboard.Solution.exe
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\Scoreboard\Scoreboard.Solution\bin\Debug\Scoreboard.Solution.pdb
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\Scoreboard\Scoreboard.Solution\bin\Debug\PowerCollections.dll
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\Scoreboard\Scoreboard.Solution\bin\Debug\PowerCollections.xml
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\Scoreboard\Scoreboard.Solution\obj\Debug\Scoreboard.Solution.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\Scoreboard\Scoreboard.Solution\obj\Debug\Scoreboard.Solution.exe
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\Scoreboard\Scoreboard.Solution\obj\Debug\Scoreboard.Solution.pdb

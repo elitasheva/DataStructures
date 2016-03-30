@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\01.ReverseNumbers\bin\Debug\01.ReverseNumbers.exe.config
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\01.ReverseNumbers\bin\Debug\01.ReverseNumbers.exe
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\01.ReverseNumbers\bin\Debug\01.ReverseNumbers.pdb
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\01.ReverseNumbers\obj\Debug\01.ReverseNumbers.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\01.ReverseNumbers\obj\Debug\01.ReverseNumbers.exe
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\01.ReverseNumbers\obj\Debug\01.ReverseNumbers.pdb

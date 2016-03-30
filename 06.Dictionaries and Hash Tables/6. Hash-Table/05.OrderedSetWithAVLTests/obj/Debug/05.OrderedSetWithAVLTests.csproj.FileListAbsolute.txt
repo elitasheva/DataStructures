@@ -1,0 +1,10 @@
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\05.OrderedSetWithAVLTests\bin\Debug\05.OrderedSetWithAVLTests.dll
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\05.OrderedSetWithAVLTests\bin\Debug\05.OrderedSetWithAVLTests.pdb
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\05.OrderedSetWithAVLTests\bin\Debug\04.OrderedSet.exe
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\05.OrderedSetWithAVLTests\bin\Debug\05.OrderedSetWithAVL.exe
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\05.OrderedSetWithAVLTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\05.OrderedSetWithAVLTests\bin\Debug\04.OrderedSet.pdb
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\05.OrderedSetWithAVLTests\bin\Debug\05.OrderedSetWithAVL.pdb
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\05.OrderedSetWithAVLTests\obj\Debug\05.OrderedSetWithAVLTests.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\05.OrderedSetWithAVLTests\obj\Debug\05.OrderedSetWithAVLTests.dll
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\05.OrderedSetWithAVLTests\obj\Debug\05.OrderedSetWithAVLTests.pdb

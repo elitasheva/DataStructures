@@ -1,0 +1,8 @@
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\5. DFS-and-BFS\BFS-Escape-from-Labyrinth.Tests\bin\Debug\BFS-Escape-from-Labyrinth.Tests.dll
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\5. DFS-and-BFS\BFS-Escape-from-Labyrinth.Tests\bin\Debug\BFS-Escape-from-Labyrinth.Tests.pdb
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\5. DFS-and-BFS\BFS-Escape-from-Labyrinth.Tests\bin\Debug\Escape-from-Labyrinth.exe
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\5. DFS-and-BFS\BFS-Escape-from-Labyrinth.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\5. DFS-and-BFS\BFS-Escape-from-Labyrinth.Tests\bin\Debug\Escape-from-Labyrinth.pdb
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\5. DFS-and-BFS\BFS-Escape-from-Labyrinth.Tests\obj\Debug\BFS-Escape-from-Labyrinth.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\5. DFS-and-BFS\BFS-Escape-from-Labyrinth.Tests\obj\Debug\BFS-Escape-from-Labyrinth.Tests.dll
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\5. DFS-and-BFS\BFS-Escape-from-Labyrinth.Tests\obj\Debug\BFS-Escape-from-Labyrinth.Tests.pdb

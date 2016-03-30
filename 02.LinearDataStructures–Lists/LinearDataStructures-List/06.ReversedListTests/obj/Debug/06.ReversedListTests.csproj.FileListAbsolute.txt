@@ -1,0 +1,8 @@
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\06.ReversedListTests\bin\Debug\06.ReversedListTests.dll
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\06.ReversedListTests\bin\Debug\06.ReversedListTests.pdb
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\06.ReversedListTests\bin\Debug\06.ImplementTheDataStructure.exe
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\06.ReversedListTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\06.ReversedListTests\bin\Debug\06.ImplementTheDataStructure.pdb
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\06.ReversedListTests\obj\Debug\06.ReversedListTests.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\06.ReversedListTests\obj\Debug\06.ReversedListTests.dll
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\06.ReversedListTests\obj\Debug\06.ReversedListTests.pdb

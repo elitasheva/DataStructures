@@ -1,0 +1,9 @@
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Shopping-Center\Shopping-Center.Tests\bin\Debug\Shopping-Center.Tests.dll
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Shopping-Center\Shopping-Center.Tests\bin\Debug\Shopping-Center.Tests.pdb
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Shopping-Center\Shopping-Center.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Shopping-Center\Shopping-Center.Tests\bin\Debug\Shopping-Center.exe
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Shopping-Center\Shopping-Center.Tests\bin\Debug\PowerCollections.dll
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Shopping-Center\Shopping-Center.Tests\bin\Debug\Shopping-Center.pdb
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Shopping-Center\Shopping-Center.Tests\obj\Debug\Shopping-Center.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Shopping-Center\Shopping-Center.Tests\obj\Debug\Shopping-Center.Tests.dll
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Shopping-Center\Shopping-Center.Tests\obj\Debug\Shopping-Center.Tests.pdb

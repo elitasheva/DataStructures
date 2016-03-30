@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\02.BiDictionary\bin\Debug\02.BiDictionary.exe.config
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\02.BiDictionary\bin\Debug\02.BiDictionary.exe
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\02.BiDictionary\bin\Debug\02.BiDictionary.pdb
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\02.BiDictionary\obj\Debug\02.BiDictionary.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\02.BiDictionary\obj\Debug\02.BiDictionary.exe
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\02.BiDictionary\obj\Debug\02.BiDictionary.pdb

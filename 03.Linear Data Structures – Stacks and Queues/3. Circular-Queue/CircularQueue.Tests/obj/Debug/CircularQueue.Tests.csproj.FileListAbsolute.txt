@@ -1,0 +1,8 @@
+D:\Projects\Fundamental\06.DataStructures\Linear Data Structures – Stacks and Queues\3. Circular-Queue\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.dll
+D:\Projects\Fundamental\06.DataStructures\Linear Data Structures – Stacks and Queues\3. Circular-Queue\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.pdb
+D:\Projects\Fundamental\06.DataStructures\Linear Data Structures – Stacks and Queues\3. Circular-Queue\CircularQueue.Tests\bin\Debug\CircularQueue.exe
+D:\Projects\Fundamental\06.DataStructures\Linear Data Structures – Stacks and Queues\3. Circular-Queue\CircularQueue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Fundamental\06.DataStructures\Linear Data Structures – Stacks and Queues\3. Circular-Queue\CircularQueue.Tests\bin\Debug\CircularQueue.pdb
+D:\Projects\Fundamental\06.DataStructures\Linear Data Structures – Stacks and Queues\3. Circular-Queue\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\Linear Data Structures – Stacks and Queues\3. Circular-Queue\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.dll
+D:\Projects\Fundamental\06.DataStructures\Linear Data Structures – Stacks and Queues\3. Circular-Queue\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.pdb

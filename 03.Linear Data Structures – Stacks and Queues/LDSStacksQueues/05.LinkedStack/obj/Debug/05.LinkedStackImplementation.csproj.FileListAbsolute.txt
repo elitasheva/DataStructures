@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\05.LinkedStackImplementation\bin\Debug\05.LinkedStackImplementation.exe.config
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\05.LinkedStackImplementation\bin\Debug\05.LinkedStackImplementation.exe
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\05.LinkedStackImplementation\bin\Debug\05.LinkedStackImplementation.pdb
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\05.LinkedStackImplementation\obj\Debug\05.LinkedStackImplementation.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\05.LinkedStackImplementation\obj\Debug\05.LinkedStackImplementation.exe
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\05.LinkedStackImplementation\obj\Debug\05.LinkedStackImplementation.pdb

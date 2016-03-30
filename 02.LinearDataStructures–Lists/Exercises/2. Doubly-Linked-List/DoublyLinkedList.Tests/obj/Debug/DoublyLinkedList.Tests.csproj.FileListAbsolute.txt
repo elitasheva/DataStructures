@@ -1,0 +1,8 @@
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\Exercises\2. Doubly-Linked-List\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.dll
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\Exercises\2. Doubly-Linked-List\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.pdb
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\Exercises\2. Doubly-Linked-List\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.exe
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\Exercises\2. Doubly-Linked-List\DoublyLinkedList.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\Exercises\2. Doubly-Linked-List\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.pdb
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\Exercises\2. Doubly-Linked-List\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\Exercises\2. Doubly-Linked-List\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.dll
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\Exercises\2. Doubly-Linked-List\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.pdb

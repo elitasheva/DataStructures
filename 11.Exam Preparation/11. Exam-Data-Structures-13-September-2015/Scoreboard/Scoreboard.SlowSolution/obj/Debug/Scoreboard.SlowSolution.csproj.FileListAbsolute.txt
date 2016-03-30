@@ -1,0 +1,5 @@
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\Scoreboard\Scoreboard.SlowSolution\bin\Debug\Scoreboard.SlowSolution.exe
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\Scoreboard\Scoreboard.SlowSolution\bin\Debug\Scoreboard.SlowSolution.pdb
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\Scoreboard\Scoreboard.SlowSolution\obj\Debug\Scoreboard.SlowSolution.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\Scoreboard\Scoreboard.SlowSolution\obj\Debug\Scoreboard.SlowSolution.exe
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\Scoreboard\Scoreboard.SlowSolution\obj\Debug\Scoreboard.SlowSolution.pdb

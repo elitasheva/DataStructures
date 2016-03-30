@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\TreeAndGraphTraversal\01.FindTheRoot\bin\Debug\01.FindTheRoot.exe.config
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\TreeAndGraphTraversal\01.FindTheRoot\bin\Debug\01.FindTheRoot.exe
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\TreeAndGraphTraversal\01.FindTheRoot\bin\Debug\01.FindTheRoot.pdb
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\TreeAndGraphTraversal\01.FindTheRoot\obj\Debug\01.FindTheRoot.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\TreeAndGraphTraversal\01.FindTheRoot\obj\Debug\01.FindTheRoot.exe
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\TreeAndGraphTraversal\01.FindTheRoot\obj\Debug\01.FindTheRoot.pdb

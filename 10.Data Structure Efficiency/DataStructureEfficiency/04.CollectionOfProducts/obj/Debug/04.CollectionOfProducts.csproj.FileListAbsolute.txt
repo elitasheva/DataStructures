@@ -1,0 +1,8 @@
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\04.CollectionOfProducts\bin\Debug\04.CollectionOfProducts.exe.config
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\04.CollectionOfProducts\bin\Debug\04.CollectionOfProducts.exe
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\04.CollectionOfProducts\bin\Debug\04.CollectionOfProducts.pdb
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\04.CollectionOfProducts\bin\Debug\PowerCollections.dll
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\04.CollectionOfProducts\bin\Debug\PowerCollections.xml
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\04.CollectionOfProducts\obj\Debug\04.CollectionOfProducts.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\04.CollectionOfProducts\obj\Debug\04.CollectionOfProducts.exe
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\04.CollectionOfProducts\obj\Debug\04.CollectionOfProducts.pdb

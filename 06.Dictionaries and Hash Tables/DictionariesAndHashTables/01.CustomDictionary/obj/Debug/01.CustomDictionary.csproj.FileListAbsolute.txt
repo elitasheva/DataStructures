@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\DictionariesAndHashTables\01.CustomDictionary\bin\Debug\01.CustomDictionary.exe.config
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\DictionariesAndHashTables\01.CustomDictionary\bin\Debug\01.CustomDictionary.exe
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\DictionariesAndHashTables\01.CustomDictionary\bin\Debug\01.CustomDictionary.pdb
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\DictionariesAndHashTables\01.CustomDictionary\obj\Debug\01.CustomDictionary.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\DictionariesAndHashTables\01.CustomDictionary\obj\Debug\01.CustomDictionary.exe
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\DictionariesAndHashTables\01.CustomDictionary\obj\Debug\01.CustomDictionary.pdb

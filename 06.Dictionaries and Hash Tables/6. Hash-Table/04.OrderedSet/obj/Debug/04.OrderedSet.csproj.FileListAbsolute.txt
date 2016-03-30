@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\04.OrderedSet\bin\Debug\04.OrderedSet.exe.config
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\04.OrderedSet\obj\Debug\04.OrderedSet.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\04.OrderedSet\bin\Debug\04.OrderedSet.exe
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\04.OrderedSet\bin\Debug\04.OrderedSet.pdb
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\04.OrderedSet\obj\Debug\04.OrderedSet.exe
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\04.OrderedSet\obj\Debug\04.OrderedSet.pdb

@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\06.ImplementationOfReversedList\bin\Debug\06.ImplementTheDataStructure.exe.config
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\06.ImplementationOfReversedList\obj\Debug\06.ImplementTheDataStructure.exe
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\06.ImplementationOfReversedList\obj\Debug\06.ImplementTheDataStructure.pdb
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\06.ImplementationOfReversedList\bin\Debug\06.ImplementTheDataStructure.exe
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\06.ImplementationOfReversedList\bin\Debug\06.ImplementTheDataStructure.pdb
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\06.ImplementationOfReversedList\obj\Debug\06.ImplementationOfReversedList.csprojResolveAssemblyReference.cache

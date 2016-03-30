@@ -1,0 +1,8 @@
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\CollectionDSAndLibraries\02.StringEditor\bin\Debug\02.StringEditor.exe.config
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\CollectionDSAndLibraries\02.StringEditor\bin\Debug\02.StringEditor.exe
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\CollectionDSAndLibraries\02.StringEditor\bin\Debug\02.StringEditor.pdb
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\CollectionDSAndLibraries\02.StringEditor\bin\Debug\PowerCollections.dll
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\CollectionDSAndLibraries\02.StringEditor\bin\Debug\PowerCollections.xml
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\CollectionDSAndLibraries\02.StringEditor\obj\Debug\02.StringEditor.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\CollectionDSAndLibraries\02.StringEditor\obj\Debug\02.StringEditor.exe
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\CollectionDSAndLibraries\02.StringEditor\obj\Debug\02.StringEditor.pdb

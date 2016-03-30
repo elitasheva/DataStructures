@@ -1,0 +1,5 @@
+D:\Projects\Fundamental\06.DataStructures\04.Trees and Tree-Like Structures\4. Trees\Binary-Tree\bin\Debug\Trees.exe
+D:\Projects\Fundamental\06.DataStructures\04.Trees and Tree-Like Structures\4. Trees\Binary-Tree\bin\Debug\Trees.pdb
+D:\Projects\Fundamental\06.DataStructures\04.Trees and Tree-Like Structures\4. Trees\Binary-Tree\obj\Debug\Trees.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\04.Trees and Tree-Like Structures\4. Trees\Binary-Tree\obj\Debug\Trees.exe
+D:\Projects\Fundamental\06.DataStructures\04.Trees and Tree-Like Structures\4. Trees\Binary-Tree\obj\Debug\Trees.pdb

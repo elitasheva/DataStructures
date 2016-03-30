@@ -1,0 +1,8 @@
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\OrderedSetTests\obj\Debug\04.OrderedSetTests.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\OrderedSetTests\bin\Debug\OrderedSetTests.dll
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\OrderedSetTests\bin\Debug\OrderedSetTests.pdb
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\OrderedSetTests\bin\Debug\04.OrderedSet.exe
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\OrderedSetTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\OrderedSetTests\bin\Debug\04.OrderedSet.pdb
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\OrderedSetTests\obj\Debug\OrderedSetTests.dll
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\OrderedSetTests\obj\Debug\OrderedSetTests.pdb

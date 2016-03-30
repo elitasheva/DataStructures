@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\04.RemoveOddOccurences\bin\Debug\04.RemoveOddOccurences.exe.config
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\04.RemoveOddOccurences\bin\Debug\04.RemoveOddOccurences.exe
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\04.RemoveOddOccurences\bin\Debug\04.RemoveOddOccurences.pdb
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\04.RemoveOddOccurences\obj\Debug\04.RemoveOddOccurences.exe
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\04.RemoveOddOccurences\obj\Debug\04.RemoveOddOccurences.pdb
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\04.RemoveOddOccurences\obj\Debug\04.RemoveOddOccurences.csprojResolveAssemblyReference.cache

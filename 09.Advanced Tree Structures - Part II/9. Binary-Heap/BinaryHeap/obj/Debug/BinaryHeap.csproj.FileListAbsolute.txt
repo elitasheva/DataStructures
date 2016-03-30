@@ -1,0 +1,7 @@
+D:\Projects\Fundamental\06.DataStructures\08.Advanced Tree Structures\8. Binary-Heap\BinaryHeap\bin\Debug\BinaryHeap.exe
+D:\Projects\Fundamental\06.DataStructures\08.Advanced Tree Structures\8. Binary-Heap\BinaryHeap\bin\Debug\BinaryHeap.pdb
+D:\Projects\Fundamental\06.DataStructures\08.Advanced Tree Structures\8. Binary-Heap\BinaryHeap\obj\Debug\BinaryHeap.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\08.Advanced Tree Structures\8. Binary-Heap\BinaryHeap\obj\Debug\BinaryHeap.exe
+D:\Projects\Fundamental\06.DataStructures\08.Advanced Tree Structures\8. Binary-Heap\BinaryHeap\obj\Debug\BinaryHeap.pdb
+D:\Projects\Fundamental\06.DataStructures\09.Advanced Tree Structures - Part II\9. Binary-Heap\BinaryHeap\obj\Debug\BinaryHeap.exe
+D:\Projects\Fundamental\06.DataStructures\09.Advanced Tree Structures - Part II\9. Binary-Heap\BinaryHeap\obj\Debug\BinaryHeap.pdb

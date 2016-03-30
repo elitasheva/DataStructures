@@ -1,0 +1,10 @@
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Collection-of-Persons\Collection-of-Persons.Tests\bin\Debug\Collection-of-Persons.Tests.dll
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Collection-of-Persons\Collection-of-Persons.Tests\bin\Debug\Collection-of-Persons.Tests.pdb
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Collection-of-Persons\Collection-of-Persons.Tests\bin\Debug\Collection-of-Persons.exe
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Collection-of-Persons\Collection-of-Persons.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Collection-of-Persons\Collection-of-Persons.Tests\bin\Debug\Collection-of-Persons.pdb
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Collection-of-Persons\Collection-of-Persons.Tests\obj\Debug\Collection-of-Persons.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Collection-of-Persons\Collection-of-Persons.Tests\obj\Debug\Collection-of-Persons.Tests.dll
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Collection-of-Persons\Collection-of-Persons.Tests\obj\Debug\Collection-of-Persons.Tests.pdb
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Collection-of-Persons\Collection-of-Persons.Tests\bin\Debug\PowerCollections.dll
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Collection-of-Persons\Collection-of-Persons.Tests\bin\Debug\PowerCollections.xml

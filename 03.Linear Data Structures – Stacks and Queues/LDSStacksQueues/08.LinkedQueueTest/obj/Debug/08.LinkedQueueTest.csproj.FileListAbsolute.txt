@@ -1,0 +1,8 @@
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\08.LinkedQueueTest\bin\Debug\08.LinkedQueueTest.dll
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\08.LinkedQueueTest\bin\Debug\08.LinkedQueueTest.pdb
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\08.LinkedQueueTest\bin\Debug\07.LinkedQueue.exe
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\08.LinkedQueueTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\08.LinkedQueueTest\bin\Debug\07.LinkedQueue.pdb
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\08.LinkedQueueTest\obj\Debug\08.LinkedQueueTest.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\08.LinkedQueueTest\obj\Debug\08.LinkedQueueTest.dll
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\08.LinkedQueueTest\obj\Debug\08.LinkedQueueTest.pdb

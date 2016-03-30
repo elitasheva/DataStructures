@@ -1,0 +1,8 @@
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\Ex\EventsInGivenDateRange\bin\Debug\EventsInGivenDateRange.exe.config
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\Ex\EventsInGivenDateRange\bin\Debug\EventsInGivenDateRange.exe
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\Ex\EventsInGivenDateRange\bin\Debug\EventsInGivenDateRange.pdb
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\Ex\EventsInGivenDateRange\bin\Debug\PowerCollections.dll
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\Ex\EventsInGivenDateRange\bin\Debug\PowerCollections.xml
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\Ex\EventsInGivenDateRange\obj\Debug\EventsInGivenDateRange.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\Ex\EventsInGivenDateRange\obj\Debug\EventsInGivenDateRange.exe
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\Ex\EventsInGivenDateRange\obj\Debug\EventsInGivenDateRange.pdb

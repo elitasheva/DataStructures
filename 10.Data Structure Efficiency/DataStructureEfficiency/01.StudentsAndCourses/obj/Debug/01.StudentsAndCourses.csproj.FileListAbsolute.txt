@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\01.StudentsAndCourses\bin\Debug\01.StudentsAndCourses.exe.config
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\01.StudentsAndCourses\bin\Debug\01.StudentsAndCourses.exe
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\01.StudentsAndCourses\bin\Debug\01.StudentsAndCourses.pdb
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\01.StudentsAndCourses\obj\Debug\01.StudentsAndCourses.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\01.StudentsAndCourses\obj\Debug\01.StudentsAndCourses.exe
+D:\Projects\Fundamental\06.DataStructures\10.Data Structure Efficiency\DataStructureEfficiency\01.StudentsAndCourses\obj\Debug\01.StudentsAndCourses.pdb

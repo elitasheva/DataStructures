@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\06.DataStructures\04.Trees and Tree-Like Structures\TreesAndTree-LikeStructures\01.PlayWithTrees\bin\Debug\01.PlayWithTrees.exe.config
+D:\Projects\Fundamental\06.DataStructures\04.Trees and Tree-Like Structures\TreesAndTree-LikeStructures\01.PlayWithTrees\bin\Debug\01.PlayWithTrees.exe
+D:\Projects\Fundamental\06.DataStructures\04.Trees and Tree-Like Structures\TreesAndTree-LikeStructures\01.PlayWithTrees\bin\Debug\01.PlayWithTrees.pdb
+D:\Projects\Fundamental\06.DataStructures\04.Trees and Tree-Like Structures\TreesAndTree-LikeStructures\01.PlayWithTrees\obj\Debug\01.PlayWithTrees.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\04.Trees and Tree-Like Structures\TreesAndTree-LikeStructures\01.PlayWithTrees\obj\Debug\01.PlayWithTrees.exe
+D:\Projects\Fundamental\06.DataStructures\04.Trees and Tree-Like Structures\TreesAndTree-LikeStructures\01.PlayWithTrees\obj\Debug\01.PlayWithTrees.pdb

@@ -1,0 +1,8 @@
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\CollectionDSAndLibraries\03.FastSearchForStrings\bin\Debug\03.FastSearchForStrings.exe.config
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\CollectionDSAndLibraries\03.FastSearchForStrings\bin\Debug\03.FastSearchForStrings.exe
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\CollectionDSAndLibraries\03.FastSearchForStrings\bin\Debug\03.FastSearchForStrings.pdb
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\CollectionDSAndLibraries\03.FastSearchForStrings\bin\Debug\PowerCollections.dll
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\CollectionDSAndLibraries\03.FastSearchForStrings\bin\Debug\PowerCollections.xml
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\CollectionDSAndLibraries\03.FastSearchForStrings\obj\Debug\03.FastSearchForStrings.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\CollectionDSAndLibraries\03.FastSearchForStrings\obj\Debug\03.FastSearchForStrings.exe
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\CollectionDSAndLibraries\03.FastSearchForStrings\obj\Debug\03.FastSearchForStrings.pdb

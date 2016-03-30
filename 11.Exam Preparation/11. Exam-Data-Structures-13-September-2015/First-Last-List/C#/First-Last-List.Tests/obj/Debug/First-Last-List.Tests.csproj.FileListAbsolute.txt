@@ -1,0 +1,9 @@
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\First-Last-List\C#\First-Last-List.Tests\bin\Debug\First-Last-List.Tests.dll
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\First-Last-List\C#\First-Last-List.Tests\bin\Debug\First-Last-List.Tests.pdb
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\First-Last-List\C#\First-Last-List.Tests\bin\Debug\First-Last-List.exe
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\First-Last-List\C#\First-Last-List.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\First-Last-List\C#\First-Last-List.Tests\bin\Debug\First-Last-List.pdb
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\First-Last-List\C#\First-Last-List.Tests\obj\Debug\First-Last-List.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\First-Last-List\C#\First-Last-List.Tests\obj\Debug\First-Last-List.Tests.dll
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\First-Last-List\C#\First-Last-List.Tests\obj\Debug\First-Last-List.Tests.pdb
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\First-Last-List\C#\First-Last-List.Tests\bin\Debug\PowerCollections.dll

@@ -1,0 +1,7 @@
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\03.Phonebook\bin\Debug\03.Phonebook.exe.config
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\03.Phonebook\bin\Debug\03.Phonebook.exe
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\03.Phonebook\bin\Debug\03.Phonebook.pdb
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\03.Phonebook\bin\Debug\HashTable.exe
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\03.Phonebook\bin\Debug\HashTable.pdb
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\03.Phonebook\obj\Debug\03.Phonebook.exe
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\03.Phonebook\obj\Debug\03.Phonebook.pdb

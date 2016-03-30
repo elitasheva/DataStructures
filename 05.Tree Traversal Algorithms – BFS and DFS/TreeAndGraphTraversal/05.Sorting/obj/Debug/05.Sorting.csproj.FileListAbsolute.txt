@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\TreeAndGraphTraversal\05.Sorting\bin\Debug\05.Sorting.exe.config
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\TreeAndGraphTraversal\05.Sorting\bin\Debug\05.Sorting.exe
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\TreeAndGraphTraversal\05.Sorting\bin\Debug\05.Sorting.pdb
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\TreeAndGraphTraversal\05.Sorting\obj\Debug\05.Sorting.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\TreeAndGraphTraversal\05.Sorting\obj\Debug\05.Sorting.exe
+D:\Projects\Fundamental\06.DataStructures\05.Tree Traversal Algorithms – BFS and DFS\TreeAndGraphTraversal\05.Sorting\obj\Debug\05.Sorting.pdb

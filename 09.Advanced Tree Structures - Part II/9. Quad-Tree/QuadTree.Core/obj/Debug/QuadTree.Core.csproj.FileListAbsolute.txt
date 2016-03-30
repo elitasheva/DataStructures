@@ -1,0 +1,10 @@
+D:\Projects\Fundamental\06.DataStructures\08.Advanced Tree Structures\9. Quad-Tree\QuadTree.Core\bin\Debug\QuadTree.Core.dll
+D:\Projects\Fundamental\06.DataStructures\08.Advanced Tree Structures\9. Quad-Tree\QuadTree.Core\bin\Debug\QuadTree.Core.pdb
+D:\Projects\Fundamental\06.DataStructures\08.Advanced Tree Structures\9. Quad-Tree\QuadTree.Core\obj\Debug\QuadTree.Core.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\08.Advanced Tree Structures\9. Quad-Tree\QuadTree.Core\obj\Debug\QuadTree.Core.dll
+D:\Projects\Fundamental\06.DataStructures\08.Advanced Tree Structures\9. Quad-Tree\QuadTree.Core\obj\Debug\QuadTree.Core.pdb
+D:\Projects\Fundamental\06.DataStructures\09.Advanced Tree Structures - Part II\9. Quad-Tree\QuadTree.Core\bin\Debug\QuadTree.Core.dll
+D:\Projects\Fundamental\06.DataStructures\09.Advanced Tree Structures - Part II\9. Quad-Tree\QuadTree.Core\bin\Debug\QuadTree.Core.pdb
+D:\Projects\Fundamental\06.DataStructures\09.Advanced Tree Structures - Part II\9. Quad-Tree\QuadTree.Core\obj\Debug\QuadTree.Core.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\09.Advanced Tree Structures - Part II\9. Quad-Tree\QuadTree.Core\obj\Debug\QuadTree.Core.dll
+D:\Projects\Fundamental\06.DataStructures\09.Advanced Tree Structures - Part II\9. Quad-Tree\QuadTree.Core\obj\Debug\QuadTree.Core.pdb

@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\06.DataStructures\04.Trees and Tree-Like Structures\TreesAndTree-LikeStructures\02.TraverseAndSaveDirectory\bin\Debug\02.TraverseAndSaveDirectory.exe.config
+D:\Projects\Fundamental\06.DataStructures\04.Trees and Tree-Like Structures\TreesAndTree-LikeStructures\02.TraverseAndSaveDirectory\bin\Debug\02.TraverseAndSaveDirectory.exe
+D:\Projects\Fundamental\06.DataStructures\04.Trees and Tree-Like Structures\TreesAndTree-LikeStructures\02.TraverseAndSaveDirectory\bin\Debug\02.TraverseAndSaveDirectory.pdb
+D:\Projects\Fundamental\06.DataStructures\04.Trees and Tree-Like Structures\TreesAndTree-LikeStructures\02.TraverseAndSaveDirectory\obj\Debug\02.TraverseAndSaveDirectory.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\04.Trees and Tree-Like Structures\TreesAndTree-LikeStructures\02.TraverseAndSaveDirectory\obj\Debug\02.TraverseAndSaveDirectory.exe
+D:\Projects\Fundamental\06.DataStructures\04.Trees and Tree-Like Structures\TreesAndTree-LikeStructures\02.TraverseAndSaveDirectory\obj\Debug\02.TraverseAndSaveDirectory.pdb

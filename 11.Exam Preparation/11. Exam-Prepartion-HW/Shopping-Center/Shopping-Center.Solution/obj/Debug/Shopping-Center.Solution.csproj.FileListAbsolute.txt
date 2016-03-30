@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Shopping-Center\Shopping-Center.Solution\bin\Debug\Shopping-Center.exe
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Shopping-Center\Shopping-Center.Solution\bin\Debug\Shopping-Center.pdb
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Shopping-Center\Shopping-Center.Solution\bin\Debug\PowerCollections.dll
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Shopping-Center\Shopping-Center.Solution\obj\Debug\Shopping-Center.Solution.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Shopping-Center\Shopping-Center.Solution\obj\Debug\Shopping-Center.exe
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Prepartion-HW\Shopping-Center\Shopping-Center.Solution\obj\Debug\Shopping-Center.pdb

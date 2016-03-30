@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\06.DataStructures\09.Advanced Tree Structures - Part II\9. Quad-Tree\K-DTree.Core\bin\Debug\K-DTree.Core.exe.config
+D:\Projects\Fundamental\06.DataStructures\09.Advanced Tree Structures - Part II\9. Quad-Tree\K-DTree.Core\obj\Debug\K-DTree.Core.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\09.Advanced Tree Structures - Part II\9. Quad-Tree\K-DTree.Core\bin\Debug\K-DTree.Core.exe
+D:\Projects\Fundamental\06.DataStructures\09.Advanced Tree Structures - Part II\9. Quad-Tree\K-DTree.Core\bin\Debug\K-DTree.Core.pdb
+D:\Projects\Fundamental\06.DataStructures\09.Advanced Tree Structures - Part II\9. Quad-Tree\K-DTree.Core\obj\Debug\K-DTree.Core.exe
+D:\Projects\Fundamental\06.DataStructures\09.Advanced Tree Structures - Part II\9. Quad-Tree\K-DTree.Core\obj\Debug\K-DTree.Core.pdb

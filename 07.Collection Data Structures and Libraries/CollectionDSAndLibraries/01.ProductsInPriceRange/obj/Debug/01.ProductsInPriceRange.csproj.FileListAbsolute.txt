@@ -1,0 +1,8 @@
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\CollectionDSAndLibraries\01.ProductsInPriceRange\bin\Debug\01.ProductsInPriceRange.exe.config
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\CollectionDSAndLibraries\01.ProductsInPriceRange\bin\Debug\01.ProductsInPriceRange.exe
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\CollectionDSAndLibraries\01.ProductsInPriceRange\bin\Debug\01.ProductsInPriceRange.pdb
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\CollectionDSAndLibraries\01.ProductsInPriceRange\bin\Debug\PowerCollections.dll
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\CollectionDSAndLibraries\01.ProductsInPriceRange\bin\Debug\PowerCollections.xml
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\CollectionDSAndLibraries\01.ProductsInPriceRange\obj\Debug\01.ProductsInPriceRange.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\CollectionDSAndLibraries\01.ProductsInPriceRange\obj\Debug\01.ProductsInPriceRange.exe
+D:\Projects\Fundamental\06.DataStructures\07.Collection Data Structures and Libraries\CollectionDSAndLibraries\01.ProductsInPriceRange\obj\Debug\01.ProductsInPriceRange.pdb

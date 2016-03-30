@@ -1,0 +1,8 @@
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\03.FindLongestSubsequenceTest\bin\Debug\03.FindLongestSubsequenceTest.dll
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\03.FindLongestSubsequenceTest\bin\Debug\03.FindLongestSubsequenceTest.pdb
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\03.FindLongestSubsequenceTest\bin\Debug\03.LongestSubsequence.exe
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\03.FindLongestSubsequenceTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\03.FindLongestSubsequenceTest\bin\Debug\03.LongestSubsequence.pdb
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\03.FindLongestSubsequenceTest\obj\Debug\03.FindLongestSubsequenceTest.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\03.FindLongestSubsequenceTest\obj\Debug\03.FindLongestSubsequenceTest.dll
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\03.FindLongestSubsequenceTest\obj\Debug\03.FindLongestSubsequenceTest.pdb

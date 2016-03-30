@@ -1,0 +1,6 @@
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\02.CalculateSequence\bin\Debug\02.CalculateSequence.exe.config
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\02.CalculateSequence\bin\Debug\02.CalculateSequence.exe
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\02.CalculateSequence\bin\Debug\02.CalculateSequence.pdb
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\02.CalculateSequence\obj\Debug\02.CalculateSequence.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\02.CalculateSequence\obj\Debug\02.CalculateSequence.exe
+D:\Projects\Fundamental\06.DataStructures\03.Linear Data Structures – Stacks and Queues\LDSStacksQueues\02.CalculateSequence\obj\Debug\02.CalculateSequence.pdb

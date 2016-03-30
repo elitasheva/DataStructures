@@ -1,0 +1,8 @@
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\07.LinkedListTests\bin\Debug\07.LinkedListTests.dll
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\07.LinkedListTests\bin\Debug\07.LinkedListTests.pdb
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\07.LinkedListTests\bin\Debug\07.ImplementationOfLinkedList.exe
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\07.LinkedListTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\07.LinkedListTests\bin\Debug\07.ImplementationOfLinkedList.pdb
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\07.LinkedListTests\obj\Debug\07.LinkedListTests.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\07.LinkedListTests\obj\Debug\07.LinkedListTests.dll
+D:\Projects\Fundamental\06.DataStructures\02.LinearDataStructures–Lists\LinearDataStructures\07.LinkedListTests\obj\Debug\07.LinkedListTests.pdb

@@ -1,0 +1,8 @@
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\HashTable.Tests\bin\Debug\HashTable.Tests.dll
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\HashTable.Tests\bin\Debug\HashTable.Tests.pdb
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\HashTable.Tests\bin\Debug\HashTable.exe
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\HashTable.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\HashTable.Tests\bin\Debug\HashTable.pdb
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\HashTable.Tests\obj\Debug\HashTable.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\HashTable.Tests\obj\Debug\HashTable.Tests.dll
+D:\Projects\Fundamental\06.DataStructures\06.Dictionaries and Hash Tables\6. Hash-Table\HashTable.Tests\obj\Debug\HashTable.Tests.pdb

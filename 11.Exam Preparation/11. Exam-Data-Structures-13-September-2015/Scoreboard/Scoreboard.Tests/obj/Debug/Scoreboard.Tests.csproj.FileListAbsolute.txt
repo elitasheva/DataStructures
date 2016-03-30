@@ -1,0 +1,12 @@
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\Scoreboard\Scoreboard.Tests\bin\Debug\Scoreboard.Tests.dll
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\Scoreboard\Scoreboard.Tests\bin\Debug\Scoreboard.Tests.pdb
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\Scoreboard\Scoreboard.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\Scoreboard\Scoreboard.Tests\bin\Debug\Scoreboard.SlowSolution.exe
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\Scoreboard\Scoreboard.Tests\bin\Debug\Scoreboard.Solution.exe
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\Scoreboard\Scoreboard.Tests\bin\Debug\PowerCollections.dll
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\Scoreboard\Scoreboard.Tests\bin\Debug\Scoreboard.SlowSolution.pdb
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\Scoreboard\Scoreboard.Tests\bin\Debug\Scoreboard.Solution.pdb
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\Scoreboard\Scoreboard.Tests\bin\Debug\PowerCollections.xml
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\Scoreboard\Scoreboard.Tests\obj\Debug\Scoreboard.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\Scoreboard\Scoreboard.Tests\obj\Debug\Scoreboard.Tests.dll
+D:\Projects\Fundamental\06.DataStructures\11.Exam Preparation\11. Exam-Data-Structures-13-September-2015\Scoreboard\Scoreboard.Tests\obj\Debug\Scoreboard.Tests.pdb
